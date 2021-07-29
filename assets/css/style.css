@@ -1478,7 +1478,7 @@ h6 {
   padding: 0 15px;
   letter-spacing: 1px;
   border: 0;
-  border-radius: 3px;
+  border-radius: 0px;
   overflow: hidden;
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
@@ -6862,7 +6862,7 @@ input[type=radio] {
 }
 
 .about__img img {
-  border-radius: 3px;
+  border-radius: 0px;
 }
 
 .about__Text p {
@@ -7161,7 +7161,7 @@ input[type=radio] {
 .service-item {
   position: relative;
   overflow: hidden;
-  border-radius: 4px;
+  border-radius: 0px;
   margin-bottom: 30px;
   padding: 50px 40px 50px 50px;
   background-color: #ffffff;
